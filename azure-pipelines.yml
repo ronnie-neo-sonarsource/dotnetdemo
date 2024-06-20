@@ -26,7 +26,7 @@ steps:
     SonarQube: 'Local Sonar'
     scannerMode: 'MSBuild'
     projectKey: 'Demo-dotnet_Demo-dotnet_af30f184-588b-42b2-a3df-194b88239cfc'
-
+  
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
@@ -38,3 +38,11 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- task: SonarQubeAnalyze@6
+  inputs:
+    jdkversion: 'JAVA_HOME_17_X64'
+
+- task: SonarQubePublish@6
+  inputs:
+    pollingTimeoutSec: '300'
