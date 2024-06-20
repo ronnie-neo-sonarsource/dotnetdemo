@@ -1,0 +1,14 @@
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/bin/Debug/net8.0/exampledotnet
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/bin/Debug/net8.0/exampledotnet.deps.json
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/bin/Debug/net8.0/exampledotnet.runtimeconfig.json
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/bin/Debug/net8.0/exampledotnet.dll
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/bin/Debug/net8.0/exampledotnet.pdb
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.AssemblyInfoInputs.cache
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.AssemblyInfo.cs
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.csproj.CoreCompileInputs.cache
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.dll
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/refint/exampledotnet.dll
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.pdb
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/exampledotnet.genruntimeconfig.cache
+/Users/ronnie.neo/Documents/demos/testcodes/dotnetdemo/exampledotnet/obj/Debug/net8.0/ref/exampledotnet.dll
