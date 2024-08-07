@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Testing 1 2 3");
+for (int i = 0; i < 3; i++) {
+    Console.Write(i);
+}
